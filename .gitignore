@@ -1,0 +1,19 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Large / unnecessary files
+*.xlsx
+*.docx
+*.pdf
+
+# OGS output files (heavy)
+*.vtu
+*.pvd
+
+# Temporary / system
+.DS_Store
+Thumbs.db
