@@ -5,11 +5,6 @@
 __pycache__/
 *.pyc
 
-# Large / unnecessary files
-*.xlsx
-*.docx
-*.pdf
-
 # OGS output files (heavy)
 *.pvd
 
